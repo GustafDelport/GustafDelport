@@ -13,6 +13,6 @@ I dabble in the fine art of code often crossing the line between reality and dre
 
 ## 📫 How to reach me
 - Discord - Gunter#6158
-- [Email] - (mailto:gustafdelport@gmail.com)
+- [Email] - (gustafdelport@gmail.com)
 - [Website] - *coming soon
 - [LinkedIn] - (https://www.linkedin.com/in/gustaf-delport-896480177/)
