@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Gustaf Delport
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/GustafDelport" alt="profile views"> •  
   <a href="">Website</a> •
+  <img src="https://gpvc.arturio.dev/GustafDelport" alt="profile views"> •  
   <a href="https://www.linkedin.com/in/gustaf-delport-896480177/">LinkedIn</a>
 </p>
 
