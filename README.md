@@ -13,12 +13,19 @@ I dabble in the fine art of code often crossing the line between reality and dre
 
 ## 👯 Communities
 - Thrillab
+- Coding and Programming Community | mattupham
 
-## 💻 What I am currently/done working on
+## 💻 Education
+- Udemy Courses 2017-Present
+- Student Software Engineer 2018-Present
+
+## 🛠 What I'm done/working with
+- MillSim 2020
+- Booker - *Coming Soon
 - Thrillab - *Coming soon*
 
 ## 📫 How to reach me
-- Discord - Gunter#6158
+- Discord - Gunter#6733
 - [Email] - (gustafdelport@gmail.com)
 - [Website] - *coming soon
 - [LinkedIn] - (https://www.linkedin.com/in/gustaf-delport-896480177/)
