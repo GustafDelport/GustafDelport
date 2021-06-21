@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://careerday.belgiumcampus.ac.za/sites/s576409/">Website</a> •
   <img src="https://gpvc.arturio.dev/GustafDelport" alt="profile views"> •  
+  [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
   <a href="https://www.linkedin.com/in/gustaf-delport-896480177/">LinkedIn</a>
 </p>
 
