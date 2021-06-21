@@ -35,7 +35,7 @@ I dabble in the fine art of code often crossing the line between reality and dre
 - [LinkedIn] - (https://www.linkedin.com/in/gustaf-delport-896480177/)
 
 [![Gustaf's github stats](https://github-readme-stats.vercel.app/api?username=GustafDelport&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustafDelport&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustafDelport&theme=tokyonight)
 
 ## 🧰 Languages and Tools:
 <p align="center">
