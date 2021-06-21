@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://careerday.belgiumcampus.ac.za/sites/s576409/">Website</a> •
   <img src="https://gpvc.arturio.dev/GustafDelport" alt="profile views"> •
-  <img src="https://img.shields.io/github/followers/GustafDelport?label=Follow&style=social" alt="GitHub Followes"> •  
   <a href="https://www.linkedin.com/in/gustaf-delport-896480177/">LinkedIn</a>
 </p>
 
@@ -36,6 +35,7 @@ I dabble in the fine art of code often crossing the line between reality and dre
 - [LinkedIn] - (https://www.linkedin.com/in/gustaf-delport-896480177/)
 
 [![Gustaf's github stats](https://github-readme-stats.vercel.app/api?username=GustafDelport&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustafDelport=tokyonight)
 
 ## 🧰 Languages and Tools:
 <p align="center">
