@@ -15,6 +15,7 @@ I dabble in the fine art of code often crossing the line between reality and dre
 
 ## 👯 Communities
 - Thrillab
+- Inventixx
 - Coding and Programming Community | mattupham
 
 ## 💻 Education
