@@ -20,7 +20,8 @@ I dabble in the fine art of code often crossing the line between reality and dre
 
 ## 💻 Education
 - Udemy Courses 2017-Present
-- Student Software Engineer 2018-Present
+- Student Software Engineer 2019-Present
+- LinkedIn Learning 2022-Present
 
 ## 🛠 What I'm done/working with
 - MillSim 2020
