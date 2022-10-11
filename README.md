@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I'm a Computer Science student specialising in Software Engineering. I primarily program in Javascript, C# and Java. Desktop applications are primarily my focus now, but I can also design and create web applications and fiddle with websites. I enjoy exploring ideas and concepts and learning new skills on the fly.
+I'm a Software Engineer. I primarily program in Javascript, C# and Java. Web applications/API's are primarily my focus now, but I can also design and create IOT systems and fiddle with websites. I enjoy exploring ideas and concepts and learning new skills on the fly.
 </p>
 <p align="center">
 I dabble in the fine art of code often crossing the line between reality and dreams. I love to dream of a future where I made a change it does not matter how big or small. 
